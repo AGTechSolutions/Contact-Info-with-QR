@@ -28,7 +28,7 @@ padding-right:20px;
 .info{
 margin-left: auto;
 margin-right: auto;
-width:450px;
+width:350px;
 height:750px;
 background-color:white;
 border-radius:30px;
@@ -38,7 +38,7 @@ border-radius:30px;
 
 
 #landline{
-   margin-left: 13rem;
+   margin-left: 9rem;
    margin-top: -1.2rem;
 
 }
@@ -46,11 +46,11 @@ border-radius:30px;
    height: 80px;
 }
 .fa-home{
-   margin-left: 5rem;
+   margin-left: 2.5rem;
    margin-top: 1.5rem;
 }
 #landline-no{
-   margin-left: 13rem;
+   margin-left: 9rem;
    margin-top: -4rem;
 }
 /* .fa-envelope{
@@ -58,34 +58,34 @@ border-radius:30px;
    margin-top: 1.5rem;
 } */
 #mailid1{
-   margin-left: 13rem;
+   margin-left: 9rem;
    margin-top: -4rem;
 }
 #emailheading{
-   margin-left: 13rem;
+   margin-left: 9rem;
    margin-top: -1.2rem;
 
 }
 
 #mail1,#mail2,#wticon,#location_icon,#mobile_icon{
-   margin-left: 5rem;
+   margin-left: 2.9rem;
    margin-top: 1.5rem;
 }
 #mailid2{
-   margin-left: 13rem;
+   margin-left: 9rem;
    margin-top: -4rem;
 }
 #emailheading2{
-   margin-left: 13rem;
+   margin-left: 9rem;
    margin-top: -1.2rem;
 
 }
 #group,#location_heading,#mobile{
-   margin-left: 13rem;
+   margin-left: 9rem;
    margin-top: -4rem;
 }
 #whatsappgroup,#google_maps,#mobile_para{
-   margin-left: 13rem;
+   margin-left: 9rem;
    margin-top: -1.2rem;
 
 }
